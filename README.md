@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, my name is Larbi</h1>
 <h3 align="center">Student Developper Fullstack</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mynameislarbi&label=Profile%20views&color=0e75b6&style=flat" alt="mynameislarbi" /> </p>
+
 - 🔭 I’m currently working on **The Hacking Project**
 
 - 🌱 I’m currently learning **HTML, CSS, Ruby, JavaScript**
