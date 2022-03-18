@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **The Hacking Project**
 
-- 🌱 I’m currently learning **HTML, CSS, Ruby, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, Ruby, JavaScript, Bootstrap**
 
 - 📫 How to reach me **larbi.ah@outlook.com**
 
